@@ -1,3 +1,13 @@
+db5.3 (5.3.28+dfsg2-11) unstable; urgency=medium
+
+  * QA upload.
+  * Fix clean target. Closes: #1044855, #1049634.
+  * d/control: Drop "Rules-Requires-Root: no" (default).
+  * d/control: Drop "Priority: optional" (default).
+  * d/control: Update standards-version.
+
+ -- Santiago Vila <sanvila@debian.org>  Thu, 04 Dec 2025 09:20:00 +0100
+
 db5.3 (5.3.28+dfsg2-10) unstable; urgency=medium
 
   * QA upload
